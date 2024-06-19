@@ -195,7 +195,7 @@ hr {
   }
   .imgSubCategory {
     box-sizing: border-box;
-     display: flex;
+    display: flex;
     flex-direction: row;
     padding: 10px 20px;
     /* align-items: center;
@@ -209,7 +209,7 @@ hr {
   }
 
   .imgSubCategory img {
-height: 135px;
+    height: 135px;
     width: 110px;
     margin-right: 10px;
   }
@@ -217,8 +217,6 @@ height: 135px;
   .footer {
     display: grid;
   }
-
-
 }
 @media screen and (max-width: 400px) {
   .header li {
@@ -230,8 +228,8 @@ height: 135px;
   .header {
     padding: 10px;
   }
-  .header button{
+  .header button {
     display: grid;
-        font-size: 15px;
-    }
+    font-size: 15px;
+  }
 }
